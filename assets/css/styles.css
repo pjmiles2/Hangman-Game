@@ -1,0 +1,71 @@
+@font-face {
+font-family: Tomato;
+src: url(../images/tomato.ttf);
+
+}
+
+body {
+
+background-image: url("../images/round.png");
+opacity: 25%;
+}
+
+#pix {
+
+    margin: 10px;
+}
+
+
+.jumbotron {
+
+    background-color: brown;
+}
+h1 {
+
+    font-family: 'Tomato', cursive;
+    color: orange;
+    font-size: 50pt;
+}
+
+h2 {
+
+font-family: 'Tomato', cursive;
+color: brown;
+font-size: 25pt;
+
+}
+
+#btn {
+
+font-family: 'Tomato', cursive;
+
+}
+
+#wordinplay {
+
+font-family:'Tomato', cursive;
+font-size: 23pt;
+
+}
+
+#wins {
+
+font-family: 'Tomato', cursive;
+font-size: 25pt;
+
+
+}
+
+#score {
+
+font-family: 'Tomato', cursive;
+font-size: 25pt;
+word-wrap: break-word;
+
+}
+
+#wrong {
+
+    font-family: 'Tomato', cursive;
+    font-size: 20pt;
+}
