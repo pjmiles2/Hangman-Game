@@ -1,6 +1,6 @@
 @font-face {
-font-family: Tomato;
-src: url(../images/tomato.ttf);
+font-family: 'Tomato';
+src: url(tomato.ttf);
 
 }
 
@@ -22,14 +22,14 @@ opacity: 25%;
 }
 h1 {
 
-    font-family: 'Tomato', cursive;
+    font-family: 'Tomato', Arial, Helvetica, sans-serif;
     color: orange;
     font-size: 50pt;
 }
 
 h2 {
 
-font-family: 'Tomato', cursive;
+font-family: 'Tomato', Arial, Helvetica, sans-serif;
 color: brown;
 font-size: 25pt;
 
@@ -37,20 +37,20 @@ font-size: 25pt;
 
 #btn {
 
-font-family: 'Tomato', cursive;
+font-family: 'Tomato', Arial, Helvetica, sans-serif;
 
 }
 
 #wordinplay {
 
-font-family:'Tomato', cursive;
+font-family:'Tomato', Arial, Helvetica, sans-serif;
 font-size: 23pt;
 
 }
 
 #wins {
 
-font-family: 'Tomato', cursive;
+font-family: 'Tomato', Arial, Helvetica, sans-serif;
 font-size: 25pt;
 
 
@@ -58,7 +58,7 @@ font-size: 25pt;
 
 #score {
 
-font-family: 'Tomato', cursive;
+font-family: 'Tomato', Arial, Helvetica, sans-serif;
 font-size: 25pt;
 word-wrap: break-word;
 
@@ -66,6 +66,6 @@ word-wrap: break-word;
 
 #wrong {
 
-    font-family: 'Tomato', cursive;
+    font-family: 'Tomato', Arial, Helvetica, sans-serif;
     font-size: 20pt;
 }
